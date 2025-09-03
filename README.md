@@ -89,7 +89,8 @@ chatapp/
 ```bash
 git clone https://github.com/nagesh-makanapur/chat-app.git
 cd chatapp
-`````
+
+````````
 **Create a .env file inside server/:**
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
