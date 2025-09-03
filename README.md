@@ -119,6 +119,18 @@ Create a .env file inside client/:
 VITE_SERVER_URL=http://localhost:5000
 
 
+---
+
+## 📜 License
+This project is licensed under the **ISC License**.  
+
+---
+
+## 👨‍💻 Author
+**Nagesh Makanapur**
+
+
+
 
 
 
