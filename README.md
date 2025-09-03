@@ -29,8 +29,8 @@ Socket.io (real-time events)
 JWT + bcryptjs (auth & security)
 
 Cloudinary (media storage)
----
 
+-------
 ## ✨ Key Features
 - 🔐 **Authentication & Authorization** – JWT-based login/register with encrypted passwords (bcryptjs)
 - 💬 **Instant Messaging** – Real-time bidirectional communication with Socket.io
@@ -40,7 +40,18 @@ Cloudinary (media storage)
 - 🎨 **Modern Frontend** – React (Vite) with modular components and pages
 - 🌍 **Cross-Origin Ready** – CORS enabled for smooth frontend-backend interaction
 - ⚡ **Developer Friendly** – Nodemon support for backend hot reload
+-----
 
+## 📸 Snapshots  
+
+### 🔑 Login Page  
+![Login Page](./snapshots/login.png)  
+
+### 💬 Chat Dashboard  
+![Chat Dashboard](./snapshots/dashboard.png)  
+
+### 📤 Media Sharing  
+![Media Sharing](./snapshots/media.png)  
 ````
 ## 📂 Project Structure
 chatapp/
