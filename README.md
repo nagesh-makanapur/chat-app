@@ -48,7 +48,7 @@ Cloudinary (media storage)
 ![Login Page](./snapshots/login.png)  
 
 ### 💬 Chat Dashboard  
-![Chat Dashboard](./snapshots/dashboard.png)  
+![Chat Dashboard](Snapshots/ChatInterface.png)  
 
 ### 📤 Media Sharing  
 ![Media Sharing](./snapshots/media.png)  
