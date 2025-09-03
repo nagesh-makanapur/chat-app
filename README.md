@@ -45,13 +45,13 @@ Cloudinary (media storage)
 ## 📸 Snapshots  
 
 ### 🔑 Login Page  
-![Login Page](Snapshots/Login page.png)  
+![Login Page](Snapshots/Login page.png)
 
 ### 💬 Chat Dashboard  
 ![Chat Dashboard](Snapshots/ChatInterface.png)  
 
 ### 📤 Media Sharing  
-![Media Sharing](./snapshots/media.png)  
+![Media Sharing](Snapshots/Login page.png)  
 ````
 ## 📂 Project Structure
 chatapp/
